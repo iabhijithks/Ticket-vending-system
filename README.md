@@ -4,7 +4,7 @@ This repository contains a simple console code that simulates a ticket vending m
 
 -----
 
-### Version 3: Multiple Seat Booking
+### Version 2: Multiple Seat Booking
 #### ticket_vending_v2.py
 
 This is the an advanced version. It allows a single user to buy multiple seats in a single transaction. The program asks for the number of seats desired and then books them all under one name. It also includes robust error handling to prevent crashes.
@@ -19,7 +19,7 @@ This is the an advanced version. It allows a single user to buy multiple seats i
 
 -----
 
-### Version 2: One-by-One Booking
+### Version 1: One-by-One Booking
 #### ticket_vending_v1.py
 
 In this version, the user is required to provide a name for each seat. The program books one seat at a time, and the user must enter a name for each of the 50 available seats.
@@ -60,4 +60,4 @@ This project is a command-line ticket vending system I built in Python to showca
 * **Author:**[Abhijith K S](https://github.com/iabhijithks)
 
 
-* Last Updated on 09/08/2025
+* Last Updated on 18/08/2025
