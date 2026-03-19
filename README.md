@@ -7,7 +7,7 @@ This repository contains a simple console code that simulates a ticket vending m
 ### Version 2: Multiple Seat Booking
 #### ticket_vending_v2.py
 
-This is the an advanced version. It allows a single user to buy multiple seats in a single transaction. The program asks for the number of seats desired and then books them all under one name. It also includes robust error handling to prevent crashes.
+This is the an advanced command-line version. It allows a single user to buy multiple seats in a single transaction. The program asks for the number of seats desired and then books them all under one name. It also includes robust error handling to prevent crashes.
 
 **Features:**
 
@@ -22,7 +22,7 @@ This is the an advanced version. It allows a single user to buy multiple seats i
 ### Version 1: One-by-One Booking
 #### ticket_vending_v1.py
 
-In this version, the user is required to provide a name for each seat. The program books one seat at a time, and the user must enter a name for each of the 50 available seats.
+In this command-line version, the user is required to provide a name for each seat. The program books one seat at a time, and the user must enter a name for each of the 50 available seats.
 
 **Features:**
 
@@ -33,9 +33,9 @@ In this version, the user is required to provide a name for each seat. The progr
 
 -----
 
-### How to Run the Code
+### How to Run the Code (v1 & v2)
 
-1.  **Save the file:** Save the code for any of the versions as a Python file (e.g., `vending_machine_v3.py`).
+1.  **Save the file:** Save the code for any of the versions (v1 or v2) as a Python file (e.g., `vending_machine_v3.py`).
 2.  **Open your terminal:** Navigate to the directory where you saved the file.
 3.  **Run the program:** Execute the following command:
     ```
@@ -54,7 +54,7 @@ Feel free to suggest any features. I appreciate your ideas!
 
 ### About the Project
 
-This project is a command-line ticket vending system I built in Python to showcase my foundational programming skills. This is the initial command-line version, and I plan to regularly update the repository with new & efficient versions, as I learn and grow. The next major milestone will be developing a Graphical User Interface, transforming the project from a command-line tool into a complete application.
+This project is a ticket vending system I built in Python to showcase my foundational programming skills. This is the initial command-line version, and I plan to update the repository with new & efficient versions, as I learn and grow. The next major milestone will be developing a Graphical User Interface, transforming the project from a command-line tool into a complete application.
 
 
 * **Author:**[Abhijith K S](https://github.com/iabhijithks)
